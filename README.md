@@ -12,5 +12,5 @@
 
 - Languages: SQL, R
 - Spreadsheets: Excel, Google Sheets
-- Visualizaions: Tableau, R, Microsoft Power BI
+- Visualizations: Tableau, R, Microsoft Power BI
 - Databases: MySQL, PostgreSQL, Microsoft SQL Server, Google Big Query
