@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**SophiaTulip/SophiaTulip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:construction: *Currently working on this github page.*
 
-Here are some ideas to get you started:
+- Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :open_file_folder: Projects
+
+*Coming Soon*
+
+### :computer: Skills
+
+- Languages: SQL, R
+- Spreadsheets: Excel, Google Sheets
+- Visualizaions: Tableau, R, Microsoft Power BI
+- Databases: MySQL, PostgreSQL, Microsoft SQL Server, Google Big Query
