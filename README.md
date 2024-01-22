@@ -6,7 +6,7 @@
 
 ### :open_file_folder: Projects
 
-*Coming Soon*
+You can view my portfolio and projects [here](https://github.com/SophiaTulip/Portfolio/blob/main/README.md).
 
 ### :computer: Skills
 
